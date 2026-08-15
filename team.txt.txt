@@ -1,9 +1,10 @@
 Equipo de Desarrollo
 
 Integrantes:
-1. Pendiente
+1. Juan Mora-Backend
 2. Pendiente
 3. Pendiente
 
 Proyecto:
 Aplicación de perfiles del equipo
+	
